@@ -813,16 +813,16 @@ input[type="radio"]:checked + label.radio {
 	display: block;
 	margin: -18px 0px 0px -14px;
 	outline: none;
-	background: #1ABC9C;
+	background: #6ab8ee;
 	text-align: center;
 	padding: 12px 0px;
 }
 .slider .ui-slider-handle:focus {
-	background: #09997C;
+	background: #6ab8ee;
 }
 .slider .ui-slider-range-min {
 	height: 100%;
-	background: #1ABC9C;
+	background: #6ab8ee;
 	margin: 0px -10px 0px -14px;
 	border-radius: 4px 0px 0px 4px;
 }
@@ -928,7 +928,7 @@ input[type="radio"]:checked + label.radio {
 .calc_ipoteka .tabs li {
 	display: table-cell;
 	list-style: none;
-	border: 1px solid #1ABC9C;
+	border: 1px solid #6ab8ee;
 	padding: 0px;
 	margin: 0px;
 	background-color: #fff;
@@ -942,19 +942,19 @@ input[type="radio"]:checked + label.radio {
 	color: #222;
 }
 .calc_ipoteka .tabs li.ui-tabs-active {
-	background: #1ABC9C;
+	background: #6ab8ee;
 }
 .calc_ipoteka .tabs li.ui-tabs-active a {
 	color: #fff;
 }
 .calc_ipoteka input[type="text"]  {
-	border-color: #1ABC9C;
+	border-color: #6ab8ee;
 }
 .calc_ipoteka input[type="radio"] + label.radio {
-	box-shadow: 0px 0px 0px 1px #1ABC9C;
+	box-shadow: 0px 0px 0px 1px #6ab8ee;
 }
 .calc_ipoteka input[type="radio"]:checked + label.radio {
-	background: #1ABC9C;
+	background: #6ab8ee;
 }
 
 
